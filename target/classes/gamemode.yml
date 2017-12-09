@@ -1,0 +1,7 @@
+class: BaseGamemode
+name: Base GM (Shoebill 1.0 Example)
+version: 1.0-SNAPSHOT
+buildNumber: ${build.number}
+buildDate: Unknown
+authors: JoJLlmAn, MK124, 123marvin123, Alf21
+description: Base Gamemode for Shoebill to test plugins

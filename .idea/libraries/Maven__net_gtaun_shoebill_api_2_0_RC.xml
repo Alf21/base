@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.gtaun:shoebill-api:2.0-RC">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/gtaun/shoebill-api/2.0-RC/shoebill-api-2.0-RC.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/gtaun/shoebill-api/2.0-RC/shoebill-api-2.0-RC-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/gtaun/shoebill-api/2.0-RC/shoebill-api-2.0-RC-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
